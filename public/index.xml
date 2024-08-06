@@ -8,32 +8,32 @@
     <language>de-DE</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Impressum und Datenschutz</title>
-      <link>http://localhost:1313/4_about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/4_about/</guid>
-      <description>Impressum Verantwortlich für diese Seite ist Martin Meister | 53173 Bonn | .&#xA;Für den Inhalt von verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&#xA;Die Bilder auf unserer Seite stammen von&#xA;Didgeman (Pixabay) Queven (Pixabay) StockSnap (Pixabay) Alexas_Fotos (Pixabay) Alle Bilder sind unter der Pixabay-Lizenz verwendbar.&#xA;Unser Logo hat &amp;hellip; erstellt.&#xA;Datenschutz Diese Seite sammelt keine persönlichen Daten.</description>
-    </item>
-    <item>
       <title>Unsere Aktionen</title>
-      <link>http://localhost:1313/1_actions/</link>
+      <link>http://localhost:1313/actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/1_actions/</guid>
+      <guid>http://localhost:1313/actions/</guid>
       <description>Hier findest Du in Zukunft mehr Informationen, wie wir schon tätig geworden sind und welche Aktionen wir planen.</description>
     </item>
     <item>
       <title>Was Du selbst tun kannst</title>
-      <link>http://localhost:1313/3_resources/</link>
+      <link>http://localhost:1313/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/3_resources/</guid>
+      <guid>http://localhost:1313/resources/</guid>
       <description>Hier findest Du in Zukunft Tipps und Ressourcen, wie Du selbst gegen rechts vorgehen kannst.</description>
     </item>
     <item>
       <title>Wo Du uns findest</title>
-      <link>http://localhost:1313/2_find_us/</link>
+      <link>http://localhost:1313/find_us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2_find_us/</guid>
+      <guid>http://localhost:1313/find_us/</guid>
       <description>Wir arbeiten größtenteils online in unserem Klubraum zusammen und organisieren regelmäßige persönliche Treffen. Wenn Du bei einem unserer Treffen dabei sein möchtest oder dem Klubraum beitreten möchtest, dann schreib uns gerne an:</description>
+    </item>
+    <item>
+      <title>Impressum und Datenschutz</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Impressum Verantwortlich für diese Seite ist Martin Meister | 53173 Bonn | .&#xA;Für den Inhalt von verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&#xA;Die Bilder auf unserer Seite stammen von&#xA;Didgeman (Pixabay) Queven (Pixabay) StockSnap (Pixabay) Alexas_Fotos (Pixabay) Alle Bilder sind unter der Pixabay-Lizenz verwendbar.&#xA;Unser Logo hat &amp;hellip; erstellt.&#xA;Datenschutz Diese Seite sammelt keine persönlichen Daten.</description>
     </item>
   </channel>
 </rss>

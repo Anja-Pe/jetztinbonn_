@@ -1,6 +1,7 @@
 ---
 title: 'Wo Du uns findest'
 draft: false
+weight: 20
 cascade:
   featured_image: '/images/team-7278740_1920.jpg'
 ---
