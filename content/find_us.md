@@ -5,6 +5,9 @@ weight: 20
 cascade:
   featured_image: '/images/background-2462433_1280.jpg'
 ---
+Du findest uns auf verschiedenen Plattformen oder auch bei persönlichen und virtuellen Treffen.
+
+<!--more-->
 
 Wir treffen uns in der Offline-Welt, z.B. während unserer Wirksam-Werden-Picknicks. Wenn Du teilnehmen möchtest, [schreibe uns eine E-Mail]({{< ref "/about" >}} "Kontakt") mit dem Betreff „Anfrage Wirksam-Werden-Picknick“, und Du erhältst eine Einladung.
 

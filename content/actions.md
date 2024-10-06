@@ -8,6 +8,8 @@ cascade:
 
 Hier findest Du Informationen über durchgeführte und geplante Aktionen sowie weitere Projekt-Ideen.
 
+<!--more-->
+
 **Wie kannst Du mitwirken?**
 
 Wir sind dabei, Themen und Aufgaben einzusammeln, für die wir grundsätzlich 
