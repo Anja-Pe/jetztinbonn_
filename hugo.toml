@@ -1,6 +1,6 @@
 baseURL = "https://jetztinbonn.de"
 languageCode = "de-DE"
-title = "#JetztInBonn"
+title = "#jetztinbonn"
 theme = "ananke"
 
 DefaultContentLanguage = "de"
